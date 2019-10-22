@@ -1,0 +1,25 @@
+.
+|-- inst
+|   `-- extdata
+|       |-- PSPS_2004.zip
+|       |-- PSPS_2005.zip
+|       |-- PSPS_2006.zip
+|       |-- PSPS_2007.zip
+|       |-- PSPS_2008.zip
+|       |-- PSPS_2009.zip
+|       |-- PSPS2010.zip
+|       |-- PSPS2011.zip
+|       |-- PSPS2012.zip
+|       |-- PSPS2013.zip
+|       |-- PSPS2014.zip
+|       |-- PSPS2015.zip
+|       |-- PSPS2016.zip
+|       `-- psps_2017.zip
+|-- man
+|   `-- import.Rd
+|-- R
+|   `-- import.R
+|-- DESCRIPTION
+|-- Makefile
+`-- NAMESPACE
+
